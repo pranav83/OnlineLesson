@@ -10,5 +10,7 @@ public class Test {
 
         mu = new Karim();
         mu.sendMessage();
+
+        System.out.println("Jay");
     }
 }
